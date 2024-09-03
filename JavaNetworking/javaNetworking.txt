@@ -1,0 +1,22 @@
+Java Networking:
+                [
+                    Java mein Networking ke liye "java.net" package ka use hota hai . 
+                    Isme various classes aur interface hain jo networking operation ko support karte hai.
+                ]
+
+Socket: 
+        [
+            Socket programming ka use client aur server ke beech communication establish karne ke liye hota hai.
+            Do tarhah ke Socket hote hai : 'TCP' or 'UDP'
+        ]
+
+
+TCP Socket: 
+            [
+                TCP(Transmission control protocol) reliable , connection - oriented protocol hai.
+            ]
+
+UDP:
+    [
+        UDP (user Datagram protocol) ek connectionless protocol hai jo faster but less reliable hai.
+    ]

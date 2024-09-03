@@ -1,0 +1,5 @@
+URL:
+    [
+        java mein URL's ke sath kaam karne ke liye "URL" class ka use hota hai.
+        Yeh class network resources ko represent karti hai.
+    ]

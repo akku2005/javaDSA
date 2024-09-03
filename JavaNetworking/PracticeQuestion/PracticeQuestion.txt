@@ -1,0 +1,19 @@
+1.> TCP Server-Client :
+                        [
+                            EK simple TCP Server-Client application likhiye jisme Client Server ko message bheje aue server Client ko reply kare.
+                        ]
+
+2.> UDP Server-Client :
+                        [
+                            Ek simple UDP Server-Client application likhiye jisme Client server ko message bheje aur server Client ko reply kare.
+                        ]
+
+3.> URL :
+            [
+                EK program likhiye jo kisi URL se content read karke console mein print kare.
+            ]
+
+4.> HTTP :
+            [
+                EK program likhiye jo kisi URL se HTTP `GET` request bheje aur response ko console mein print kare.
+            ]

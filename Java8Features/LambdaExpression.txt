@@ -1,0 +1,9 @@
+Lambda Expression:
+                    [
+                        Lambda Expression java mein function programming ko introduce karte hai .
+                        ye concise way mein function define karne ki suvidha dete hain.
+                    ]
+                    Syntax:
+                            (Parameter)-> Expression
+                            ya
+                            (Parameters)-> {Statements:}

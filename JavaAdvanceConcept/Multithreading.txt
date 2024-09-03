@@ -1,0 +1,10 @@
+Multithreading:-
+                [
+                    Multithreading ka matlab ek hi program mein multiple thread ka simultaneous execution hai.
+                    ek thread ek lightweight process hota hai jo independently run kar sakta hai
+                ]
+Thread Class:-
+            [
+                java mein threads banane ke liye   `Thread` class ka use kiya jata hai.
+                `Thread` class ko extend karke hum apna custom thread bana sakte hai.
+            ]

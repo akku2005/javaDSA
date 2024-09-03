@@ -1,0 +1,12 @@
+JDBC API:   
+            [
+                JDBC API ka use java programs mein relational database ke sath interact karne ke liye hota hai.
+                JDBC classes aur interface provide karta hai jo database ke sath `CURD`(CREATE,UPDATE,READ,DELETE) 
+                operations Perform karne mein madat karta hai.
+            ]
+
+JDBC Drivers:
+                [
+                    JDBC Drivers ek software component hota hai jo java application aur database ke beech communication establish karata hai.
+                    Har database ke apne JDBC Drivers hote hai.
+                ]
