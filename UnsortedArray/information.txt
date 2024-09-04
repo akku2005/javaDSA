@@ -1,0 +1,36 @@
+1> Search in an Unsorted Array (Unsorted Array Mein Search Karna)
+    Explanation:
+
+                Unsorted array mein search karne ka matlab hota hai kisi particular element ko array ke andar dhundhna. Kyunki array unsorted hai, humein shuru se lekar end tak poora array traverse karna padta hai, taaki hum element ko dhundh sakein.
+
+    Algorithm:
+
+                Pehle array ke first element se start karo.
+                Har element ko us element ke saath compare karo jo aap dhundh rahe ho.
+                Agar match mil jaaye, to index return karo.
+                Agar poora array traverse karne ke baad bhi match na mile, to -1 return karo (indicating element is not found).
+                Time Complexity: O(n)
+
+2> Insert in an Unsorted Array (Unsorted Array Mein Insert Karna)
+    Explanation:
+
+                Unsorted array mein insert karne ka process kaafi simple hota hai. Kyunki array unsorted hai, aap naya element directly array ke end mein add kar sakte ho (agar array ke andar space ho).
+
+    Algorithm:
+
+                Check karo ki array mein space hai ya nahi (i.e., array full to nahi hai).
+                Agar space available hai, to array ke end mein naya element insert karo.
+                Agar space available nahi hai, to insertion possible nahi hai.
+                Time Complexity: O(1) (if space is available)
+
+3> Delete in an Unsorted Array (Unsorted Array Mein Delete Karna)
+    Explanation:
+
+                Unsorted array mein delete karne ke liye pehle humein element ko dhundhna padta hai, aur phir us element ko array se remove karna padta hai. Uske baad, array ko adjust karna hota hai taaki koi bhi "gap" na rahe.
+
+    Algorithm:
+
+                Pehle element ko dhundho.
+                Agar element mil jaye, to us position ko last element se replace karo, aur array size ko ek kam kar do.
+                Agar element na mile, to deletion possible nahi hai.
+                Time Complexity: O(n) (to search the element)
